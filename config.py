@@ -2,7 +2,7 @@
 # SECURITY WARNING: Never commit this file to public repositories (GitHub, etc.)
 
 # Your Telegram Bot Token obtained from @BotFather
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+TELEGRAM_BOT_TOKEN = "8368477494:AAEVLeVK20P3xZUTSWbarOuqeTs_mgGitXE"
 
 # Your Cerebras API Key
 # I have removed your key from here for security. Paste it below.
